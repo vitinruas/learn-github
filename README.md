@@ -3,7 +3,7 @@
 Hello, everyone!
 learn github with Gustavo Guanabara from Curso em Vídeo
 
-Throwing in new content here...
+Throwing in new content here to learn a little bit about markdown...
 
 # Curso Grátis de Git e GitHub
 
@@ -34,3 +34,28 @@ Podemos _**misturar**_ configurações
 - [ ] Criar página da loja
 - [ ] Finalizar reunião com o cliente
 - [ ] Receber pagamento
+
+[access my last project](https://github.com/vitinruas/survey-api)
+
+| Num | Nome    | Nota |
+| --- | ------- | ---- |
+| 1   | Gustavo | 8,6  |
+| 2   | José    | 10   |
+| 1   | Maria   | 6.2  |
+
+Test - Não entendo direito pra que serve o comando:
+
+`print('Hello, world!)`
+
+```
+  const element document.getElementById('element')
+  console.log(element)
+```
+
+Exibindo uma imagem localmente:
+
+![image](./image.png)
+
+| id  | name | email         |
+| --- | ---- | ------------- |
+| 1   | john | john@mail.com |
