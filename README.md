@@ -7,7 +7,7 @@ Throwing in new content here to learn a little bit about markdown...
 
 # Curso Grátis de Git e GitHub
 
-Material do **Curso de Git e GitHub**, disponível gratuito no canal do _YouTube_
+Material do **Curso de Git e GitHub**, disponível gratuito no canal do _YouTube_ [clicando aqui](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=1&ab_channel=CursoemV%C3%ADdeo)
 
 ---
 
