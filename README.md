@@ -31,6 +31,6 @@ Podemos _**misturar**_ configurações
 ## Lista de Tarefas
 
 - [x] Criar a página principal
-- [] Criar página da loja
-- [] Finalizar reunião com o cliente
-- [] Receber pagamento
+- [ ] Criar página da loja
+- [ ] Finalizar reunião com o cliente
+- [ ] Receber pagamento
